@@ -6,7 +6,7 @@ export default function Cards3() {
           <h1 className="font-bold text-lg">Card title</h1>
           <p>
             Some quick example text to build on the card title and make up the
-            bulk of the card's content
+            bulk of the cards content
           </p>
         </div>
         <div className="bg-blue-400 text-black p-20 ">
@@ -14,7 +14,7 @@ export default function Cards3() {
           <h1 className="font-bold text-lg">Card title</h1>
           <p>
             Some quick example text to build on the card title and make up the
-            bulk of the card's content
+            bulk of the cards content
           </p>
         </div>
         <div className="bg-white text-black p-20 ">
@@ -22,7 +22,7 @@ export default function Cards3() {
           <h1 className="font-bold text-lg">Card title</h1>
           <p>
             Some quick example text to build on the card title and make up the
-            bulk of the card's content
+            bulk of the cards content
           </p>
         </div>
       </div>
